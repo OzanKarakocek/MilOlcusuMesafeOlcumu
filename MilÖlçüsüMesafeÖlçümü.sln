@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MilÖlçüsüMesafeÖlçümü", "MilÖlçüsüMesafeÖlçümü.pyproj", "{77BF3986-D8D4-4CCD-B19F-53FB075ECFF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BF3986-D8D4-4CCD-B19F-53FB075ECFF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BF3986-D8D4-4CCD-B19F-53FB075ECFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C68AF54-00DB-40E5-BBEB-E0AC12FB1E5A}
+	EndGlobalSection
+EndGlobal
